@@ -31,7 +31,7 @@
     "phpmorphy": "^2.0.13",
     "request-promise": "^4.2.2",
     "send": "^0.16.2",
-    "socket.io": "^2.0.4",
+    "socket.io": "^2.4.0",
     "string": "^3.3.3",
     "subsrt": "^1.0.0",
     "transliteration.cyr": "^1.0.5",
